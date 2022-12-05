@@ -1,0 +1,34 @@
+[INFO] [2022-12-04 02:55:20,761] [Advisor] === [BO auto selection] === surrogate_type: gp. acq_type: ei. acq_optimizer_type: random_scipy.
+[INFO] [2022-12-04 02:55:20,826] [OpenBox-test_install] Iteration 1, objective value: (55.602112642270264,).
+[INFO] [2022-12-04 02:55:20,826] [OpenBox-test_install] Iteration 2, objective value: (193.30856700390459,).
+[INFO] [2022-12-04 02:55:20,826] [OpenBox-test_install] Iteration 3, objective value: (10.703516996334823,).
+[INFO] [2022-12-04 02:55:21,123] [OpenBox-test_install] Iteration 4, objective value: (256.24415525895137,).
+[INFO] [2022-12-04 02:55:21,762] [OpenBox-test_install] Iteration 5, objective value: (12.650598269531825,).
+[INFO] [2022-12-04 02:55:23,661] [OpenBox-test_install] Iteration 6, objective value: (23.481559878289133,).
+[INFO] [2022-12-04 02:55:25,790] [OpenBox-test_install] Iteration 7, objective value: (107.56643502520876,).
+[INFO] [2022-12-04 02:55:28,101] [OpenBox-test_install] Iteration 8, objective value: (54.78429514888257,).
+[INFO] [2022-12-04 02:55:30,309] [OpenBox-test_install] Iteration 9, objective value: (5.001450212531259,).
+[INFO] [2022-12-04 02:55:31,154] [OpenBox-test_install] Iteration 10, objective value: (3.823503797791564,).
+[INFO] [2022-12-04 03:07:18,702] [Advisor] === [BO auto selection] === surrogate_type: gp. acq_type: ei. acq_optimizer_type: random_scipy.
+[INFO] [2022-12-04 03:07:18,761] [OpenBox-test_install] Iteration 1, objective value: (55.602112642270264,).
+[INFO] [2022-12-04 03:07:18,762] [OpenBox-test_install] Iteration 2, objective value: (140.5243991727666,).
+[INFO] [2022-12-04 03:07:18,762] [OpenBox-test_install] Iteration 3, objective value: (24.77913234625326,).
+[INFO] [2022-12-04 03:07:19,142] [OpenBox-test_install] Iteration 4, objective value: (210.71019635008898,).
+[INFO] [2022-12-04 03:07:19,418] [OpenBox-test_install] Iteration 5, objective value: (23.39946773405426,).
+[INFO] [2022-12-04 03:07:19,758] [OpenBox-test_install] Iteration 6, objective value: (15.869672781969014,).
+[INFO] [2022-12-04 03:07:20,483] [OpenBox-test_install] Iteration 7, objective value: (4.259935356740274,).
+[INFO] [2022-12-04 03:07:21,141] [OpenBox-test_install] Iteration 8, objective value: (63.42983022970676,).
+[INFO] [2022-12-04 03:07:21,710] [OpenBox-test_install] Iteration 9, objective value: (5.752055133441798,).
+[INFO] [2022-12-04 03:07:21,711] [Advisor] Sample random config. rand_prob=0.100000.
+[INFO] [2022-12-04 03:07:21,713] [OpenBox-test_install] Iteration 10, objective value: (20.408877797645182,).
+[INFO] [2022-12-04 03:08:00,498] [Advisor] === [BO auto selection] === surrogate_type: gp. acq_type: ei. acq_optimizer_type: random_scipy.
+[INFO] [2022-12-04 03:08:00,566] [OpenBox-test_install] Iteration 1, objective value: (55.602112642270264,).
+[INFO] [2022-12-04 03:08:00,567] [OpenBox-test_install] Iteration 2, objective value: (147.31992726882518,).
+[INFO] [2022-12-04 03:08:00,568] [OpenBox-test_install] Iteration 3, objective value: (12.614980049299053,).
+[INFO] [2022-12-04 03:08:00,904] [OpenBox-test_install] Iteration 4, objective value: (157.07910748424007,).
+[INFO] [2022-12-04 03:08:01,124] [OpenBox-test_install] Iteration 5, objective value: (54.99890427420058,).
+[INFO] [2022-12-04 03:08:01,486] [OpenBox-test_install] Iteration 6, objective value: (18.246739368900563,).
+[INFO] [2022-12-04 03:08:02,141] [OpenBox-test_install] Iteration 7, objective value: (11.55303733920295,).
+[INFO] [2022-12-04 03:08:02,937] [OpenBox-test_install] Iteration 8, objective value: (2.0178294336246605,).
+[INFO] [2022-12-04 03:08:03,568] [OpenBox-test_install] Iteration 9, objective value: (17.75443312014038,).
+[INFO] [2022-12-04 03:08:04,213] [OpenBox-test_install] Iteration 10, objective value: (10.960889035651505,).
